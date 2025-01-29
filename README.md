@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Agata and I'm a programmer in training , from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Ágata and I'm a programmer in training from Brasil!</h2>
 
 ###
 
